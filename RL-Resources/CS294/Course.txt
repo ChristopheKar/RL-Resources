@@ -1,0 +1,13 @@
+CS 294-112 at UC Berkeley
+
+Deep Reinforcement Learning
+Lectures: Wed/Fri 10-11:30 a.m., Soda Hall, Room 306
+
+
+The lectures will be streamed and recorded: https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37. The course is not being offered as an online course, and the videos are provided only for your personal informational and entertainment purposes. They are not part of any course requirement or degree-bearing university program.
+
+
+Enrollment is now closed. If you are not officially enrolled through CalCentral, please direct your questions to the subreddit.
+
+
+Materials from previous offerings of this course are available here: http://rail.eecs.berkeley.edu/deeprlcourse/resources#prev-off
